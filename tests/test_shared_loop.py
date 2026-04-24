@@ -1,7 +1,6 @@
 """Shared loop tests — parametrized across all 5 agents."""
 import json
 from collections.abc import Callable
-from typing import Any
 from unittest.mock import MagicMock, patch
 
 import pytest
