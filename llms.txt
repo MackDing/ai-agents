@@ -1,0 +1,22 @@
+# ai-agents
+
+> AI agent fleet — devops, finance, media, office, social. Shared Anthropic Claude API loop, domain-specific tools.
+
+Monorepo containing five specialized AI agents built on a shared Anthropic Claude API architecture. Each agent has domain-specific tools while sharing common infrastructure for configuration, API interaction, and orchestration.
+
+## Agents
+- **DevOps Agent** — CI/CD automation, infrastructure management, MCP tools
+- **Finance Agent** — Financial analysis, market data, portfolio analysis
+- **Media Agent** — Content automation, media processing pipeline
+- **Office Agent** — Document automation, workflow automation, productivity
+- **Social Agent** — Social media automation, content scheduling, cross-platform publishing
+
+## Architecture
+- Shared core: agent loop, config management, Anthropic API client
+- Domain-specific: each agent has its own tools, prompts, and workflows
+- Python monorepo with shared src/shared/ and src/agents/ structure
+
+## Links
+- Repository: https://github.com/MackDing/ai-agents
+- OPC Ecosystem: https://opc.ren
+- Author: Mack Ding (@HiClaws)
