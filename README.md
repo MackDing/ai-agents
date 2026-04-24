@@ -49,3 +49,18 @@ python examples/run_agent.py devops "Check nginx service status"
 pytest          # 30 tests: shared loop + per-agent tool checks
 ruff check .
 ```
+
+---
+
+## 🦞 OPC Ecosystem
+
+Part of the [OPC (One-Person Company)](https://opc.ren) open-source ecosystem by [Mack Ding](https://github.com/MackDing):
+
+| Project | Description |
+|---------|-------------|
+| [awesome-ai-api](https://github.com/MackDing/awesome-ai-api) | Curated list of 200+ AI API providers with daily ranking |
+| [CodexClaw](https://github.com/MackDing/CodexClaw) | Telegram bot for Claude Code & Codex CLI |
+| [ai-agents](https://github.com/MackDing/ai-agents) | AI agent fleet — devops, finance, media, office, social |
+| [opc-daily-signal](https://github.com/MackDing/opc-daily-signal) | Daily decision intelligence for OPC founders |
+| [claude-context-health](https://github.com/MackDing/claude-context-health) | Context health diagnostic guide for Claude Code |
+| [doc-preprocess-hub](https://github.com/MackDing/doc-preprocess-hub) | Enterprise document preprocessing platform |
